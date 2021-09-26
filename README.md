@@ -12,7 +12,10 @@ Adversarial Network, is a generative model that simultaneously trains two models
 model that captures the data distribution, and a discriminative model that estimates the proba-
 bility that a sample came from the training data rather than generative model.
 
-   ![cfgan](https://user-images.githubusercontent.com/81968507/134820636-9215ff91-06aa-44c1-aa9a-f1eff5875792.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/81968507/134820636-9215ff91-06aa-44c1-aa9a-f1eff5875792.png">
+</p>
+   //![cfgan](https://user-images.githubusercontent.com/81968507/134820636-9215ff91-06aa-44c1-aa9a-f1eff5875792.png)
 
                 
 
