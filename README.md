@@ -6,7 +6,7 @@ similar elements. For instance, to produce original face pictures given a collec
 create new tunes out of preexisting melodies. GANs have found applications for image, text, and
 sound generation, being at the core of technologies such as AI music, deep fakes, and content-aware
 image editing. Besides pure generation, GANs have also been applied to transforming images from
-one domain to another and as a means for style transfer. To add one more application, they t
+one domain to another and as a means for style transfer. To add one more application, they fit
 as an intelligent data augmentation technique for semi-supervised learning.A GAN, or Generative
 Adversarial Network, is a generative model that simultaneously trains two models: a generative
 model that captures the data distribution, and a discriminative model that estimates the proba-
