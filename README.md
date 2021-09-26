@@ -16,6 +16,4 @@ bility that a sample came from the training data rather than generative model.
   <img src="https://user-images.githubusercontent.com/81968507/134820636-9215ff91-06aa-44c1-aa9a-f1eff5875792.png">
 </p>
                
-
 ![image](https://user-images.githubusercontent.com/81968507/134820207-53531295-9c36-4ce5-9991-21a44d81da4a.jpeg)
-
